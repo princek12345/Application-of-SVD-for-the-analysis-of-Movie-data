@@ -4,7 +4,7 @@ This was part of course project at CALTECH. The SVD methods has been used to ana
 
 Note :
 
-This was a part of work at CALTECH in CS155 : Machine learning and Data Mining. Keep in Mind of Honor code of CALTECH before looking at the files.
+This was a part of group work at CALTECH in CS155 : Machine learning and Data Mining. Keep in Mind of Honor code of CALTECH before looking at the files.
 
 Honor Code :
 
